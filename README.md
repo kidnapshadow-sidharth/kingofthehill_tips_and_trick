@@ -2,7 +2,7 @@
 king of the hill (koth) tryhackme protect king and tricks by kidnapshadow(sidharth)
 
  
- ![tryhackme](https://github.com/kidnapshadow-sidharth/kingofthehill_tips_and_tricks/assets/107436833/d3fa19b4-40b2-4e66-affe-93dfef6c6be2)
+ ![tryhackme]((https://github.com/kidnapshadow-sidharth/kingofthehill_tips_and_trick/blob/main/korh.png))
 
 
 <h1>Introduction</h1>
