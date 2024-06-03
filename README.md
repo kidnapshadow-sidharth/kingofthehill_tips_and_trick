@@ -139,10 +139,23 @@ done &
   
   keep playing koth (tryhackme) platform and also tweet on twitter @kidnapshadow_kd
 
-  CREDITS - MatheuZ Security Credits - TryHackMe KOTH
+  
+#Port Scanning
+
+https://kidnapshadow.gitbook.io/oscp-port-scanning/
+#File Transfer windows/linux
+
+https://kidnapshadow.gitbook.io/oscp-file-transfer/
+#Privilege Escalation
+
+https://kidnapshadow.gitbook.io/oscp-privilege-escalation/
+#oscp hacking stuff
+
+https://kidnapshadow.gitbook.io/hacking/
+
+@kidnapshadow @MatheuZ @TryHackMe koth
 
   follow link :-     Medium link :- https://medium.com/@kidnapshadow 
-
-                  Youtube link :- https://youtube.com/@Kidnapshadow
-
-                      Blogger link :- www.kidnapshadow.blogspot.com                                      kidnapshadow(sidharth)
+                     Youtube link :- https://youtube.com/@Kidnapshadow
+                     Blogger link :- www.kidnapshadow.blogspot.com                                 
+                                                                                                     kidnapshadow(sidharth)
